@@ -1,8 +1,5 @@
 # vecihub.Api
 
-# vecihub.Api
-
-
 # VeciHub API
 
 Backend del sistema VeciHub desarrollado con ASP.NET Core 9.0, usando arquitectura por capas y soporte para autenticación mediante JWT.
