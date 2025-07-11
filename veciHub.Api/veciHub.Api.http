@@ -1,0 +1,6 @@
+@veciHub.Api_HostAddress = http://localhost:5245
+
+GET {{veciHub.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

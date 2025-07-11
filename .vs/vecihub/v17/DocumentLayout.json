@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\vecihub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\vecihub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\iam\\infrastructure\\persistence\\efc\\userqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\iam\\infrastructure\\persistence\\efc\\userqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\iam\\application\\internal\\queryservices\\userqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\iam\\application\\internal\\queryservices\\userqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\iam\\domain\\repositories\\iuserqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\iam\\domain\\repositories\\iuserqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\iam\\domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\iam\\domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\iam\\infrastructure\\persistence\\efc\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\iam\\infrastructure\\persistence\\efc\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\iam\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\iam\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\shared\\persistence\\applicationdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\shared\\persistence\\applicationdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\migrations\\20250709083032_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\migrations\\20250709083032_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|c:\\users\\mileniohuamanhinostr\\source\\repos\\vecihub.api\\vecihub.api\\migrations\\20250709085213_initialcreates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83675523-F047-4D75-A435-86ED5546D540}|veciHub.Api\\veciHub.Api.csproj|solutionrelative:vecihub.api\\migrations\\20250709085213_initialcreates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\.gitignore",
+              "RelativeDocumentMoniker": "veciHub.Api\\.gitignore",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\.gitignore",
+              "RelativeToolTip": "veciHub.Api\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2025-07-09T10:09:22.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserQueryRepository.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserQueryRepository.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserQueryRepository.cs",
+              "RelativeToolTip": "veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:08:07.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Application\\Internal\\QueryServices\\UserQueryService.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\IAM\\Application\\Internal\\QueryServices\\UserQueryService.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Application\\Internal\\QueryServices\\UserQueryService.cs",
+              "RelativeToolTip": "veciHub.Api\\IAM\\Application\\Internal\\QueryServices\\UserQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:04:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Program.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Program.cs",
+              "RelativeToolTip": "veciHub.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:07:46.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserRepository.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserRepository.cs",
+              "RelativeToolTip": "veciHub.Api\\IAM\\Infrastructure\\Persistence\\EFC\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:06:04.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\IAM\\Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "veciHub.Api\\IAM\\Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:03:58.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "veciHub.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\veciHub.Api.csproj",
+              "RelativeDocumentMoniker": "veciHub.Api\\veciHub.Api.csproj",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\veciHub.Api.csproj",
+              "RelativeToolTip": "veciHub.Api\\veciHub.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T08:04:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "veciHub.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:15:32.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Domain\\Repositories\\IUserQueryRepository.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\IAM\\Domain\\Repositories\\IUserQueryRepository.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Domain\\Repositories\\IUserQueryRepository.cs",
+              "RelativeToolTip": "veciHub.Api\\IAM\\Domain\\Repositories\\IUserQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:30:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250709085213_InitialCreateS.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Migrations\\20250709085213_InitialCreateS.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\Migrations\\20250709085213_InitialCreateS.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Migrations\\20250709085213_InitialCreateS.cs",
+              "RelativeToolTip": "veciHub.Api\\Migrations\\20250709085213_InitialCreateS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:52:13.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "veciHub.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\appsettings.json",
+              "RelativeToolTip": "veciHub.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T08:41:28.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Shared\\Persistence\\ApplicationDbContext.cs.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\Shared\\Persistence\\ApplicationDbContext.cs.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Shared\\Persistence\\ApplicationDbContext.cs.cs",
+              "RelativeToolTip": "veciHub.Api\\Shared\\Persistence\\ApplicationDbContext.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:18:43.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Domain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\IAM\\Domain\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\IAM\\Domain\\Model\\User.cs",
+              "RelativeToolTip": "veciHub.Api\\IAM\\Domain\\Model\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:18:08.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250709083032_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Migrations\\20250709083032_InitialCreate.cs",
+              "RelativeDocumentMoniker": "veciHub.Api\\Migrations\\20250709083032_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MilenioHuamanHinostr\\source\\repos\\vecihub.Api\\veciHub.Api\\Migrations\\20250709083032_InitialCreate.cs",
+              "RelativeToolTip": "veciHub.Api\\Migrations\\20250709083032_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:30:32.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAWwL0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-09T07:09:36.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
