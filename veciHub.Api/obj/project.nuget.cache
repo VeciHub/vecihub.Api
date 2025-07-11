@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7u82F8NA5Y=",
+  "dgSpecHash": "KM9b7cLBqGM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebastian.hernandez\\VeciHub-API\\veciHub.Api\\veciHub.Api.csproj",
+  "projectFilePath": "C:\\Users\\sebastian.hernandez\\VeciHub-API\\VeciHub-API\\veciHub.Api\\veciHub.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebastian.hernandez\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\sebastian.hernandez\\.nuget\\packages\\cortex.mediator\\1.6.1\\cortex.mediator.1.6.1.nupkg.sha512",
